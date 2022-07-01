@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.test.mybatis.MemberDTPO&apos; to &apos;MemberDTO&apos;&#x0D;&#x0A;- Original project: &apos;mybatisWork02&apos;&#x0D;&#x0A;- Original element: &apos;com.test.mybatis.MemberDTPO&apos;&#x0D;&#x0A;- Renamed element: &apos;com.test.mybatis.MemberDTO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MemberDTPO&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.test.mybatis{MemberDTPO.java[MemberDTPO" matchStrategy="1" name="MemberDTO" qualified="false" references="true" similarDeclarations="false" stamp="1654741391741" textual="false" version="1.0"/>
+</session>
